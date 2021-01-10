@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full stack development 
-- 🌱 I’m currently learning Javascript 
+- 🔭 Actively looking for the position of entry level full stack developer.
+- 🌱 I’m currently learning Full-stack development 
 - 👯 I’m looking to collaborate on javascript 
 - 🤔 I’m looking for help with React.js
 - 💬 Ask me about anything 
